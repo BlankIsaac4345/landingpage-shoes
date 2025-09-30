@@ -2,8 +2,10 @@ body {
     background-color: rgb(112, 112, 112);
 }
 .header{
-
+    background-color: red;
+    color: whitesmoke;
 }
+
 .hero{
 
 }
